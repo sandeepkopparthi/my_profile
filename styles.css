@@ -1,0 +1,44 @@
+.res-left-section {
+    background-color: rgb(217, 217, 217);
+}
+
+.applicant-name {
+    font-size: 2rem !important;
+    text-align: center;
+    font-family: 'Calibri', Courier;
+}
+
+.section-headings {
+    font-size: 1.5rem !important;
+    font-family: 'Calibri', Courier;
+    border-bottom: 1px solid black;
+}
+
+.contact-details img {
+    height: 0.63cm;
+    width: 0.63cm;
+}
+
+p {
+    font-family: 'Calibri', Courier;
+    font-size: 1rem !important;
+}
+
+.resume-heading {
+    text-decoration: underline;
+    font-size: 1.2rem !important;
+}
+
+li {
+    list-style: circle;
+    font-family: 'Calibri', Courier;
+    font-size: 1rem !important;
+}
+
+.roles {
+    font-family: 'Cambria', Times New Roman !important;
+}
+
+.companies {
+    font-family: 'Palatino Linotype', Calibri !important;
+}
