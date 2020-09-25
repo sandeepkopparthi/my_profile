@@ -8,6 +8,11 @@
     font-family: 'Calibri', Courier;
 }
 
+.card {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 .section-headings {
     font-size: 1.5rem !important;
     font-family: 'Calibri', Courier;
@@ -19,6 +24,7 @@
     width: 0.63cm;
 }
 
+.contact-details span,
 p {
     font-family: 'Calibri', Courier;
     font-size: 1rem !important;
@@ -41,4 +47,16 @@ li {
 
 .companies {
     font-family: 'Palatino Linotype', Calibri !important;
+}
+
+@media(max-width:768px) {
+    .res-left-section {
+        height: auto;
+    }
+}
+
+@media (min-width:768px) {
+    .res-left-section {
+        height: 1139px;
+    }
 }
